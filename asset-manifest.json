@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/metricpertime/static/css/main.bb1f15a4.chunk.css",
-    "main.js": "/metricpertime/static/js/main.cc105e35.chunk.js",
-    "main.js.map": "/metricpertime/static/js/main.cc105e35.chunk.js.map",
+    "main.js": "/metricpertime/static/js/main.1fa39254.chunk.js",
+    "main.js.map": "/metricpertime/static/js/main.1fa39254.chunk.js.map",
     "runtime-main.js": "/metricpertime/static/js/runtime-main.ba657d56.js",
     "runtime-main.js.map": "/metricpertime/static/js/runtime-main.ba657d56.js.map",
     "static/js/2.1db760e2.chunk.js": "/metricpertime/static/js/2.1db760e2.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ba657d56.js",
     "static/js/2.1db760e2.chunk.js",
     "static/css/main.bb1f15a4.chunk.css",
-    "static/js/main.cc105e35.chunk.js"
+    "static/js/main.1fa39254.chunk.js"
   ]
 }
