@@ -105,7 +105,7 @@ function Main() {
         </div>
       ) : (
         <div>
-          <h1>TASK</h1>
+          <h1>Metrics</h1>
           <button onClick={handleAvgPostLenPerMonth} className='button'>
             avgPostLenPerMonth
           </button>
