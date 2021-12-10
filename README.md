@@ -1,31 +1,47 @@
-Fetch and manipulate JSON data from a fictional Metrics Social Network REST API.
+<!-- ABOUT THE PROJECT -->
 
-## Installation
+## About The Project
 
-In the project directory, you can run:
+<p align="left"><a href="https://cucer.github.io/metricpertime/" target="_blank">DEMO URL</a></p>
 
-- `npm install`
-- `npm start`
+### Built With
 
----
+- [React](https://reactjs.org)
 
-## Usage
+<!-- GETTING STARTED -->
 
-You can use method buttons to change metrics and download data.
+## Getting Started
 
----
+To get a local copy up and running follow these simple example steps.
 
-## Methods
+### Installation
 
-There are 4 methods;
+1. Clone the repo
+   ```sh
+   git clone https://github.com/cucer/metricpertime.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
 
-- `avgPostLenPerMonth` Average character length of posts per month
-- `longestPostPerMonth` Longest post by character length per month
-- `totalPostsByWeek` Total posts split by week number
-- `avgPostsPerUserPerMonth` Average number of posts per user per month
+<!-- CONTRIBUTING -->
 
----
+## Contributing
 
-## Task Screen
+If you have a suggestion that would make this better, please fork the repo and create a pull request.
+Don't forget to give the project a star! Thanks again!
 
-<img  src="./public/images/screen.jpg"/>
+1. Fork the Project
+2. Create your Feature Branch
+3. Commit your Changes
+4. Push to the Branch
+5. Open a Pull Request
+
+<!-- CONTACT -->
+
+## Contact
+
+Linkedin - [@linkedin](https://www.linkedin.com/in/cagatayucer/)
+
+Project Link: [https://github.com/cucer/metricpertime](https://github.com/cucer/metricpertime)
